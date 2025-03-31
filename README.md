@@ -5,7 +5,6 @@ I'm a passionate **Software Developer** and **MERN Stack Developer**, currently 
 
 - 🎯 Preparing for **placements**
 - 🏆 **TCS CodeVita Rank 4109**
-- 🔍 Exploring **AI/ML & Web Development**
 - 🎥 Creating **Java & DSA tutorials** on YouTube: [CodeZen by Sharad](https://www.youtube.com/@CodeZenbySharad)
 - 💼 **Development Intern at Coding Thinker**
 
@@ -33,15 +32,6 @@ I'm a passionate **Software Developer** and **MERN Stack Developer**, currently 
 
 ---
 
-## 📌 Featured Projects
-
-### 🔥 **Fake News Detection System** *(In Progress)*
-- 🛠 Tech Stack: Python, NLP, Machine Learning
-- 📜 Description: Detects fake news using machine learning algorithms.
-
-### 🏨 **Hotel Management System** *(TCS CodeVita Project)*
-- 🛠 Tech Stack: MERN Stack (MongoDB, Express.js, React, Node.js)
-- 📜 Description: A full-stack web application for hotel booking & management.
 
 👉 **More projects on my [GitHub Repositories](https://github.com/sharadsoni8)**
 
