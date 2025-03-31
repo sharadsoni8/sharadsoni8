@@ -27,7 +27,6 @@ I'm a passionate **Software Developer** and **MERN Stack Developer**, currently 
 ### ⚙️ Other Skills:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
 
 ---
