@@ -1,51 +1,77 @@
-# Hi there, I'm Sharad Soni! 👋
+<h1 align="center">Hi 👋, I'm Sharad Soni</h1>
 
-## 🚀 About Me
-I'm a passionate **Software Developer** and **MERN Stack Developer**, currently pursuing **B.Tech in CSE (2022-2026)** at **IES College of Technology, Bhopal**. I love problem-solving and have a strong grasp of **Java, DSA, and Full Stack Development**.
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73636&center=true&random=false&width=435&lines=Welcome+to+My+GitHub+Profile+!!++;Full+Stack+Web+Developer+!!;College+student+%26+coding+enthusiast;Passionate+about+technology+;And++innovation+solutions+;And+exploring+new+technologies" alt="Typing SVG" />
+  </a>
+</h3>
 
-- 🎯 Preparing for **placements**
-- 🏆 **TCS CodeVita Rank 4109**
-- 🎥 Creating **Java & DSA tutorials** on YouTube: [CodeZen by Sharad](https://www.youtube.com/@CodeZenbySharad)
-- 💼 **Development Intern at Coding Thinker**
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
----
+- 🔭 I’m currently working on **My Minor Project**
 
-## 🛠️ Tech Stack
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-### 👨‍💻 Languages:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- 👨‍💻 All of my projects are available at [https://github.com/sharadsoni8](https://github.com/sharadsoni8)
 
-### 🌐 Web Development:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- 💬 Ask me about **Web Development, Java, DSA **
 
-### ⚙️ Other Skills:
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
+- 📫 How to reach me **sharadsaraf64@gmail.com**
+
+- 🎥 Check out my YouTube channel: [CodeZen by Sharad](https://www.youtube.com/@CodeZenbySharad)
 
 ---
 
-
-👉 **More projects on my [GitHub Repositories](https://github.com/sharadsoni8)**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/sharad-soni-97a492297" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad-soni" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/coder_964" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="coder_964" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@CodeZenbySharad" target="blank">
+    <img align="center" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="30"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Sharad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharadsoni8&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharadsoni8&layout=compact&theme=tokyonight)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharad-soni-97a492297/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeZenbySharad)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharadsoni8)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharadsoni8&show_icons=true&locale=en&layout=compact" alt="sharadsoni8" /></p>
 
-📩 **Email:** [sharadsaraf64@gmail.com](mailto:sharadsaraf64@gmail.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharadsoni8&show_icons=true&locale=en" alt="sharadsoni8" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharadsoni8&" alt="sharadsoni8" /></p>
